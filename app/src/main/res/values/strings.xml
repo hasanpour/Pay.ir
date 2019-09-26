@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gateway</string>
+    <string name="logo_text">Pay.ir</string>
+    <string name="imput_amount">مبلغ را وارد کنید:</string>
+    <string name="amount">مبلغ</string>
+    <string name="button_pay">پرداخت</string>
+</resources>
